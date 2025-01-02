@@ -79,7 +79,13 @@ def main():
                 st.error(f"Decryption failed: {e}")
         else:
             st.warning("Please upload an encrypted image and provide a valid encryption key.")
-
+st.info(
+    """
+    **Note**: This software is for **educational purposes** only. The author is not liable for any misuse or damages caused by using this tool.
+    Use responsibly and comply with all applicable laws.
+    """
+)
+            
 
 if __name__ == "__main__":
     main()
