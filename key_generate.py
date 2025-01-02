@@ -15,7 +15,4 @@ def to_url_safe_base64_32_bytes(user_input):
     return url_safe_encoded
 
 
-# Example usage
-# user_input = input("Enter your key: ")
-# result = to_url_safe_base64_32_bytes(user_input)
-#print(f"URL-safe Base64 encoded: {result}")
+
