@@ -8,6 +8,9 @@
   <b>Date: Dec 29, 2024</b>
 </div>
 
+## Access this project : https://project-by-vyshali-image-encryption-01.streamlit.app/
+
+
 ## Abstract
 
 The proliferation of digital images across platforms demands strong protection against unauthorized access and tampering. This project presents a **Streamlit‑based application** that encrypts and decrypts images using **AES (via the Fernet implementation)** to guarantee confidentiality and integrity of visual data. We derive **32‑byte keys from user input** using SHA‑256 and Base64 encoding, process images with Pillow, and provide a **user‑friendly interface** for secure image handling.
