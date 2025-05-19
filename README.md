@@ -10,10 +10,9 @@
 
 ## Access this project : https://project-by-vyshali-image-encryption-01.streamlit.app/
 
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/6a476d43-a76f-400d-9782-a5e205ccbb8d
+
 
 ## Abstract
 
