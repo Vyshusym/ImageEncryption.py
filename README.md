@@ -272,5 +272,45 @@ print(public_url)
    * Paste the same encryption key used earlier.
    * Upload the `.enc` file.
    * View and download the decrypted image in its original format.
+     
+
+## 🔐 How to Use the Image Encryption App
+
+Follow these steps to encrypt & decrypt your images:
+
+1. 📥 **Select “Encrypt”**  
+
+    * Open the app at https://project-by-vyshali-image-encryption-01.streamlit.app
+    
+    * In the sidebar, choose Encrypt an Image
+    
+    * Enter your secret password/key
+
+2. 🖼️ **Upload & Encrypt**  
+    * Click “Browse files” and pick your image (JPG, PNG, etc.)
+    
+    * Click Encrypt
+    
+    * Download the encrypted file (.enc)
+
+3. 📤 **Share Encrypted File**  
+    * Send the .enc file via WhatsApp, email, or any messenger
+    
+    * Make sure the recipient knows the password
+
+4. 🔄 **Decrypt the Image**  
+    * Return to https://project-by-vyshali-image-encryption-01.streamlit.app
+    
+    * In the sidebar, choose Decrypt an Image
+    
+    * Enter the same password/key
+    
+    * Upload the received .enc file
+    
+    * Click Decrypt
+
+5. 📂 **Download Decrypted Image**  
+   * After processing, click Download Decrypted Image
+   * Your original image is restored, pixel-perfect!
 
 Happy Encrypting! 🔐📸
